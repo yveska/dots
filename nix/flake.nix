@@ -23,7 +23,6 @@
 	  pkgs.obsidian
 	  pkgs.mkalias
 	  pkgs.vscodium
-	  pkgs.qbittorrent
         ];
 
 	homebrew = {
